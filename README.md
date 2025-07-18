@@ -51,26 +51,26 @@
   
 </p>
 
-<!--- stats & Trophy (start) -->
+<!--- GitHub Stats & Trophies (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DineX2001&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DineX2001&theme=dark&hide_border=false" /> 
-</td>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=DineX2001&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+        <br />
+        <!-- GitHub Streak -->
+        <img src="https://streak-stats.demolab.com/?user=DineX2001&theme=tokyonight&hide_border=true" />
+      </td>
+      <td align="center" width="50%">
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineX2001&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</p>
+<!--- GitHub Stats & Trophies (end) -->
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DineX2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 <!--- trophy (start) -->
 <div align=center>
